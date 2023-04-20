@@ -113,7 +113,7 @@ prev_button.addEventListener("click", function(){
  */
 function end_quiz(){
     localStorage.setItem("count", quiz.length);
-    window.location.href = "C:\\Users\\Hp\ Pc\\Downloads\\CBT Practice\\quiz_finish.html";
+    window.location.href = ".\\quiz_finish.html";
 }
 
 

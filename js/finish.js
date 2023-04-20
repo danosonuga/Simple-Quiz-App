@@ -27,7 +27,7 @@ function displayFinish(){
 
 restart_quiz.addEventListener("click", function(){
     localStorage.setItem("score", 0);
-    window.location.href = "C:\\Users\\Hp\ Pc\\Downloads\\CBT Practice\\quiz_page.html";
+    window.location.href = ".\\quiz_page.html";
 });
 
 
